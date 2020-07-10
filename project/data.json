@@ -1,0 +1,40 @@
+{
+	"details":{
+		"name":"Lokesh",
+		"email":"Lokeshgudla5680@gmail.com",
+		"number":"7386465680",
+		"address":"Bhimavaram"
+	},
+	"careerobjective":{
+		"info":"To become a VSLI engineerr"
+	},
+	"educationalqualification":[
+		{
+			"institute":"Rajiv Gandhi University of Knowledge and Technology",
+			"Group":"MBiPC",
+			"passedoutyear":"2020",
+			"percentage":"50%"
+		},
+		{
+			"institute":"Zilla Parishat High School",
+				"Group":"upto 10th class",
+				"passedoutyear":"2018",
+				"percentage":"100%"
+		}
+	],
+	"technicalskills":[
+		{
+			"title":"Programming languages",
+			"info":["c,c++,java,R,python"]
+		},
+		{
+			"title":"Database",
+			"info":["oracle","Mysql"]
+		},
+		{
+			"title":"Operating Sytems",
+			"info":["windows","linux","mac"]
+		}
+	]
+
+}
